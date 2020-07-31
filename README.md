@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 🐿
+
+Would you like to find me?
+
+[![Blog Badge](https://img.shields.io/badge/Ponto%20do%20Jazz-TEC-blue)](https://pontodojazz.com.br)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maiconfs)](https://twitter.com/maiconfs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconfs)](https://www.linkedin.com/in/maiconfs)
 
 <!--
 **maic0n/maic0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
