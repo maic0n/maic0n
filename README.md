@@ -6,6 +6,9 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maiconfs)](https://twitter.com/maiconfs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconfs)](https://www.linkedin.com/in/maiconfs)
 
+- 👨🏻‍💻 I’m looking to collaborate on projects using Node.js, ReactJS, Javascript, TypeORM, MongoDB, PostgreSQL & Oracle.
+- 🔭 I’m currently working on [MoobLab](https://mooblab.com.br).
+
 <!--
 **maic0n/maic0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
