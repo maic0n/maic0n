@@ -8,6 +8,7 @@ Would you like to find me?
 
 - 👨🏻‍💻 I’m looking to collaborate on projects using Node.js, ReactJS, Javascript, TypeORM, MongoDB, PostgreSQL & Oracle.
 - 🔭 I’m currently working on [MoobLab](https://mooblab.com.br).
+- 🗞 I've been writing some cool stuff about tech & related topics on my blog at pontodojazz.com.br, so check it out!
 
 <!--
 **maic0n/maic0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
