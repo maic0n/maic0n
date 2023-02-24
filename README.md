@@ -7,7 +7,7 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconfs)](https://www.linkedin.com/in/maiconfs)
 
 - 👨🏻‍💻 I’m looking to collaborate on projects using Node.js, ReactJS, Javascript, TypeORM, MongoDB, PostgreSQL & Oracle.
-- 🔭 I’m currently working on [MoobLab](https://mooblab.com.br).
+- 🔭 I'm currently working as a freelancer on projects that mainly use ReactJS and Node.
 - 🗞 I've been writing some cool stuff about tech & related topics on my blog at pontodojazz.com.br, so check it out!
 
 <!--
