@@ -6,9 +6,9 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maiconfs)](https://twitter.com/maiconfs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconfs)](https://www.linkedin.com/in/maiconfs)
 
-- 👨🏻‍💻 I’m looking to collaborate on projects using Node.js, ReactJS, Javascript, TypeORM, MongoDB, PostgreSQL & Oracle.
-- 🔭 I'm currently working as a freelancer on projects that mainly use ReactJS and Node.
-- 🗞 I've been writing some cool stuff about tech & related topics on my blog at pontodojazz.com.br, so check it out!
+- 👨🏻‍💻 I’m looking to collaborate on projects using Node.js, ReactJS, JavaScript, TypeORM, MongoDB, PostgreSQL, and Oracle.
+- 🔭 I’m currently working as a freelancer on projects mainly involving ReactJS and Node.js.
+- 🗞 I occasionally write some cool stuff about my hobby involving wine and its history on my blog (in Portuguese) at guiadovinho.com.br — whenever I can find the time, which lately hasn’t been much!
 
 <!--
 **maic0n/maic0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
